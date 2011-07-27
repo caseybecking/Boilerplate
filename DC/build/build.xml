@@ -406,7 +406,7 @@
     <!-- This is a private target -->
     
         <echo message="====================================================================="/>
-        <echo message="Welcome to the HTML5 Boilerplate Build Script!"/>
+        <echo message="Welcome to the Quiksilver, Roxy and DC Shoes Boilerplate Build Script!"/>
         <echo message=" "/>
         <echo message="We're going to get your site all ship-shape and ready for prime time."/>
         <echo message=" "/>
