@@ -1,0 +1,25 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Web Developer: Casey Becking
+  Site: http://quiksilver.com
+  Twitter: 
+  Location: 
+
+/* THANKS */
+  Names (& URL): 
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery
+  Software:
+
+________        .__ __           .__.__                     
+\_____  \  __ __|__|  | __  _____|__|  |___  __ ___________ 
+ /  / \  \|  |  \  |  |/ / /  ___/  |  |\  \/ // __ \_  __ \
+/   \_/.  \  |  /  |    <  \___ \|  |  |_\   /\  ___/|  | \/
+\_____\ \_/____/|__|__|_ \/____  >__|____/\_/  \___  >__|   
+       \__>             \/     \/                  \/       
+
