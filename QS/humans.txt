@@ -6,7 +6,7 @@
   Web Developer: Casey Becking
   Site: http://quiksilver.com
   Twitter: caseybecking
-  Location: Ca
+  Location: Huntington Beach, CA
 
 /* THANKS */
   Names (& URL): Casey Becking @ quiksilver.com
